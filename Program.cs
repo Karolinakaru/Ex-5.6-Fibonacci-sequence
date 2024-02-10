@@ -1,4 +1,3 @@
-﻿using System;
 internal class Program
 {
     private static int Fibonacci(int n)
